@@ -19,5 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
- square_root = sqrt(num)
+ square_root = cmath.sqrt(num)
 end
